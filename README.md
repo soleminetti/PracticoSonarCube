@@ -260,7 +260,7 @@ As part of my YouTube channel, I also did a multi-part series on this project. T
 
 [![Part 3 - Autoscaling containers with KEDA - KEDA Autoscale in action](/images/part3-KEDA-install.gif)](https://youtu.be/X8x_FdN1Fvo)
 
-## Slides
+## Slidess
 
 Here are the links to slides from the presentation
 
@@ -283,5 +283,4 @@ Here are the links to slides from the presentation
 - [![OSS Days - Serverless Event Driven Containers with KEDA - 30 October 2020](/images/oss-days-30-october-2020.jfif)](https://youtu.be/-bAlWBbRtEw?t=11049)
 
 - [![OSS Days - Serverless Event Driven Containers with KEDA - Edureca - 30 October 2020](/images/oss-days-edureca-30-october-2020.PNG)](https://youtu.be/a_gqfKXK874?t=11141)
-
 
